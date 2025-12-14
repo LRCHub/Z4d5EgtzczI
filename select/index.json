@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "):阿修羅:(",
+  "base_artist": "King Gnu",
+  "createdAt": "2025-12-14T13:48:00.805472Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "):阿修羅:(",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/01_)_阿修羅_(_King_Gnu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "阿修羅",
+      "artist": "Faye Wong",
+      "has_synced": true,
+      "path": "select/02_阿修羅_Faye_Wong.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "):阿修羅:( - Asura",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/03_)_阿修羅_(_-_Asura_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "阿修羅",
+      "artist": "Wong, Faye",
+      "has_synced": true,
+      "path": "select/04_阿修羅_Wong,_Faye.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "阿修羅",
+      "artist": "Yan Ting",
+      "has_synced": true,
+      "path": "select/05_阿修羅_Yan_Ting.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Broken Hero (手遊《陰陽師: 帝釋天·阿修羅》角色主題曲)",
+      "artist": "2WEI",
+      "has_synced": false,
+      "path": "select/06_Broken_Hero_(手遊《陰陽師__帝釋天·阿修羅》角色主題曲)_2WEI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛如意 (電影《阿修羅》主題曲)",
+      "artist": "G.E.M.",
+      "has_synced": false,
+      "path": "select/07_愛如意_(電影《阿修羅》主題曲)_G.E.M..txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛如意 (電影《阿修羅》主題曲)",
+      "artist": "鄧紫棋",
+      "has_synced": true,
+      "path": "select/08_愛如意_(電影《阿修羅》主題曲)_鄧紫棋.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "):阿修羅:(",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_)_阿修羅_(_King_Gnu.txt"
+    }
+  ]
+}
